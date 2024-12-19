@@ -18,6 +18,10 @@ problems through **AI, data science, and technology**.
 - 📚 **Lifelong Learner**: I’m currently diving deep into:  
   - **Deep learning and neural networks** (MIT and Prof. Andrew Ng's courses)  
   - **[MIT Emerging Talent](https://emergingtalent.mit.edu/) Certificate in Computer and Data Science**
+- 📚 **Teacher**: I'm currently on Youtube:
+  - teaching machine learning for beginners and intermediate learners
+  - sharing programing insights from my MIT Emerging Talent Education
+  - [![Find me on Youtube](https://springschurch.co.uk/wp-content/uploads/2022/08/youtube-small-icon-23.jpg.png)](https://www.youtube.com/@ElosNotes/playlists)
 
 ---
 
@@ -27,5 +31,3 @@ Feel free to reach out if:
 
 - You're working on innovative projects in **AI** or **Biomedical Data Science**
 - You want to talk about **deep learning**, **tech for good** or creative ideas!
-
-## [![Find me on Youtube](https://springschurch.co.uk/wp-content/uploads/2022/08/youtube-small-icon-23.jpg.png)](https://www.youtube.com/@ElosNotes/playlists)
