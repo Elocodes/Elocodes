@@ -27,3 +27,5 @@ Feel free to reach out if:
 
 - You're working on innovative projects in **AI** or **Biomedical Data Science**
 - You want to talk about **deep learning**, **tech for good** or creative ideas!
+
+## [![Find me on Youtube](https://springschurch.co.uk/wp-content/uploads/2022/08/youtube-small-icon-23.jpg.png)](https://www.youtube.com/@ElosNotes/playlists)
